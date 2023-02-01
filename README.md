@@ -7,3 +7,5 @@ Ein Endbenutzer kann mit der Interaktion mit der Anwendung beginnen, indem er
 eine Route mit Abfahrts- und Zielpunkten plant. Ein langer Klick auf die Karte legt
 einen Abfahrtspunkt fest. Ein zweiter langer Klick legt einen Zielpunkt fest und
 zeichnet eine Route zwischen diesen beiden Punkten auf der Karte.
+
+Unsere App erfordert eine mind. SDK API 23 und einen TomTom API Key. 
