@@ -9,3 +9,6 @@ einen Abfahrtspunkt fest. Ein zweiter langer Klick legt einen Zielpunkt fest und
 zeichnet eine Route zwischen diesen beiden Punkten auf der Karte.
 
 Unsere App erfordert eine mind. SDK API 23 und einen TomTom API Key. 
+
+
+![Screenshot (408)](https://user-images.githubusercontent.com/124213124/216196011-445c83aa-65bc-4da6-b9f3-489162ffbea6.png)
